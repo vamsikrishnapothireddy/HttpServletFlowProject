@@ -8,7 +8,7 @@ class ExampleHttpServelet {
 	}
 
 	void init() {
-		System.out.println("In zero arg init()  of ExampleHttpServelet class");
+		System.out.println("In zero arg init()  of ExampleHttpServelet class..");
 	}
 
 	void Service() {
